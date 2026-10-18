@@ -25,6 +25,9 @@ https://github.com/saneki/Lockpick_RCM
 
 **Homebrew Apps**
 
+nxdumptool:
+https://github.com/DarkMatterCore/nxdumptool
+
 Awoo Installer:
 https://github.com/Huntereb/Awoo-Installer
 
