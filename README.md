@@ -1,5 +1,5 @@
 # GlitchNX
-Ein minimalistisches Nintendo Switch CFW Pack für alle Konsolen!
+Ein minimalistisches Nintendo Switch CFW Pack für alle Konsolen
 
 CREDITS:
 
